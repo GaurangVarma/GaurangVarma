@@ -8,7 +8,7 @@
 <br><br> <br>
  
 <div align="center">
-🌱 I’m currently persuing my B-Tech in Computer Science And Engineering <h2>** B-Tech in Computer Science And Engineering **</h2>
+🌱 I’m currently persuing my B-Tech in Computer Science And Engineering <h2> B-Tech in Computer Science And Engineering </h2>
 
 
 💬 Ask me about **ML**
